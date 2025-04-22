@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Abdullah's Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Abdullah</h1>
+      <p>Virtual Assistant | IT Enthusiast | Customer Support Specialist</p>
+    </header>
+
+    <section class="section">
+      <h2>About Me</h2>
+      <p>I'm a passionate Virtual Assistant and IT learner with years of customer service experience. Currently working at Sony Middle East & Africa as a Back Office team member. I'm actively expanding my tech skills and aiming for a future in front-end development.</p>
+    </section>
+
+    <section class="section">
+      <h2>Skills</h2>
+      <ul>
+        <li>Customer Support & Communication</li>
+        <li>Virtual Assistance & Task Management</li>
+        <li>Front-End: HTML & CSS (in progress)</li>
+        <li>Time Management & Organization</li>
+        <li>Remote Tools: Google Workspace, Slack, Trello</li>
+      </ul>
+    </section>
+
+    <section class="section">
+      <h2>Experience</h2>
+      <ul>
+        <li><strong>Back Office</strong> – Sony Middle East & Africa (Current)</li>
+        <li><strong>Senior Travel Consultant</strong></li>
+        <li><strong>Senior Trainer</strong> – Teleperformance (Etihad Airways)</li>
+        <li><strong>Travel Advisor SME</strong> – Egypt Air</li>
+        <li><strong>Customer Service Agent</strong> – Vodafone UK</li>
+      </ul>
+    </section>
+
+    <section class="section">
+      <h2>Virtual Assistant & IT Journey</h2>
+      <p>I began my VA journey with platforms like 20four7VA and InboxDone, building experience with productivity tools and remote workflows. I'm also pursuing self-learning in HTML/CSS and front-end development, with my portfolio now live on GitHub Pages.</p>
+    </section>
+
+    <section class="section">
+      <h2>Sample Project</h2>
+      <p>This portfolio is my first front-end project using HTML and CSS. Hosted on GitHub Pages, it's part of my practical learning in web development.</p>
+      <a href="https://your-portfolio-link.github.io/" target="_blank" class="btn">View Project</a>
+    </section>
+
+    <section class="section">
+      <h2>Download My Resume</h2>
+      <a href="resume.pdf" class="btn" download>Download PDF</a>
+    </section>
+
+    <section class="section">
+      <h2>Contact Me</h2>
+      <p>Email: your.email@example.com</p>
+      <p>LinkedIn: <a href="https://linkedin.com/in/yourname" target="_blank">linkedin.com/in/yourname</a></p>
+    </section>
+  </div>
+</body>
+</html>
